@@ -100,6 +100,6 @@ Each folder contains my **last accepted submission** with its runtime and memory
 | [Tree](./problems/09-tree/) | 100 | 10 | 0 / 8 / 2 |
 | [Greedy](./problems/10-greedy/) | 136 | 10 | 0 / 4 / 6 |
 | [String](./problems/11-string/) | 203 | 10 | 0 / 6 / 4 |
-| [Dynamic Programming](./problems/12-dynamic-programming/) | 171 | 10 | 0 / 5 / 5 |
+| [Dynamic Programming](./problems/12-dynamic-programming/) | 171 | 10 | 0 / 2 / 8 |
 
 <sub>Stats snapshot: Nov 15, 2026</sub>
