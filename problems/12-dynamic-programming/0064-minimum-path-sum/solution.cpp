@@ -1,0 +1,24 @@
+// 64. Minimum Path Sum  [Medium]
+// https://leetcode.com/problems/minimum-path-sum/
+// Accepted 2022-01-29 · Runtime 8 ms · Memory 9.8 MB
+
+class Solution {
+public:
+    int minPathSum(vector<vector<int>>& grid) {
+        int n = grid.size(), m = grid[0].size();
+        int dp[n][m];
+        memset(dp, 0, sizeof dp);
+        
+        dp[n - 1][m - 1] = grid[n - 1][m - 1];
+        for(int i = m - 2; i >=0; i--)
+            dp[n - 1][i] = dp[n - 1][i + 1] + grid[n - 1][i];
+        for(int i = n - 2; i >= 0; i--)
+            dp[i][m - 1] += dp[i + 1][m - 1] + grid[i][m - 1];
+        
+        for(int i = n - 2; i >= 0; i--) {
+            for(int j = m - 2; j >= 0; j--)
+                dp[i][j] = grid[i][j] + min(dp[i + 1][j], dp[i][j + 1]);
+        }
+        return dp[0][0];
+    }
+};
