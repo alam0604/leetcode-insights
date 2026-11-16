@@ -1,6 +1,6 @@
 # Bit Manipulation
 
-12 hand-picked problems · 0 easy · 10 medium · 2 hard
+13 hand-picked problems · 0 easy · 11 medium · 2 hard
 
 | # | Problem | Difficulty | Language | Runtime | Solution |
 |---|---|---|---|---|---|
@@ -16,3 +16,4 @@
 | 1525 | [Number of Good Ways to Split a String](./1525-number-of-good-ways-to-split-a-string/) | 🟡 Medium | C++ | 42 ms | [code](./1525-number-of-good-ways-to-split-a-string/solution.cpp) |
 | 137 | [Single Number II](./0137-single-number-ii/) | 🟡 Medium | C++ | 1 ms | [code 1](./0137-single-number-ii/solution-1.cpp) · [code 2](./0137-single-number-ii/solution-2.cpp) |
 | 260 | [Single Number III](./0260-single-number-iii/) | 🟡 Medium | C++ | 0 ms | [code](./0260-single-number-iii/solution.cpp) |
+| 464 | [Can I Win](./0464-can-i-win/) | 🟡 Medium | C++ | 92 ms | [code](./0464-can-i-win/solution.cpp) |

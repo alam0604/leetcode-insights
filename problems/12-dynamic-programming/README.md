@@ -1,6 +1,6 @@
 # Dynamic Programming
 
-10 hand-picked problems · 0 easy · 2 medium · 8 hard
+13 hand-picked problems · 0 easy · 5 medium · 8 hard
 
 | # | Problem | Difficulty | Language | Runtime | Solution |
 |---|---|---|---|---|---|
@@ -14,3 +14,6 @@
 | 1751 | [Maximum Number of Events That Can Be Attended II](./1751-maximum-number-of-events-that-can-be-attended-ii/) | 🔴 Hard | C++ | 306 ms | [code](./1751-maximum-number-of-events-that-can-be-attended-ii/solution.cpp) |
 | 53 | [Maximum Subarray](./0053-maximum-subarray/) | 🟡 Medium | C++ | 3 ms | [code](./0053-maximum-subarray/solution.cpp) |
 | 198 | [House Robber](./0198-house-robber/) | 🟡 Medium | C++ | 0 ms | [code](./0198-house-robber/solution.cpp) |
+| 3693 | [Climbing Stairs II](./3693-climbing-stairs-ii/) | 🟡 Medium | C++ | 13 ms | [code](./3693-climbing-stairs-ii/solution.cpp) |
+| 1524 | [Number of Sub-arrays With Odd Sum](./1524-number-of-sub-arrays-with-odd-sum/) | 🟡 Medium | Python3 | 119 ms | [code](./1524-number-of-sub-arrays-with-odd-sum/solution.py) |
+| 264 | [Ugly Number II](./0264-ugly-number-ii/) | 🟡 Medium | C++ | 86 ms | [code](./0264-ugly-number-ii/solution.cpp) |

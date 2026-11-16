@@ -1,6 +1,6 @@
 # Binary Search
 
-10 hand-picked problems · 0 easy · 6 medium · 4 hard
+12 hand-picked problems · 0 easy · 8 medium · 4 hard
 
 | # | Problem | Difficulty | Language | Runtime | Solution |
 |---|---|---|---|---|---|
@@ -14,3 +14,5 @@
 | 33 | [Search in Rotated Sorted Array](./0033-search-in-rotated-sorted-array/) | 🟡 Medium | C++ | 3 ms | [code](./0033-search-in-rotated-sorted-array/solution.cpp) |
 | 240 | [Search a 2D Matrix II](./0240-search-a-2d-matrix-ii/) | 🟡 Medium | C++ | 157 ms | [code](./0240-search-a-2d-matrix-ii/solution.cpp) |
 | 540 | [Single Element in a Sorted Array](./0540-single-element-in-a-sorted-array/) | 🟡 Medium | C++ | 72 ms | [code](./0540-single-element-in-a-sorted-array/solution.cpp) |
+| 2300 | [Successful Pairs of Spells and Potions](./2300-successful-pairs-of-spells-and-potions/) | 🟡 Medium | C++ | 44 ms | [code](./2300-successful-pairs-of-spells-and-potions/solution.cpp) |
+| 275 | [H-Index II](./0275-h-index-ii/) | 🟡 Medium | C++ | 1 ms | [code](./0275-h-index-ii/solution.cpp) |

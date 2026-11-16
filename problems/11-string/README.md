@@ -1,6 +1,6 @@
 # String
 
-10 hand-picked problems · 0 easy · 6 medium · 4 hard
+11 hand-picked problems · 0 easy · 7 medium · 4 hard
 
 | # | Problem | Difficulty | Language | Runtime | Solution |
 |---|---|---|---|---|---|
@@ -14,3 +14,4 @@
 | 208 | [Implement Trie (Prefix Tree)](./0208-implement-trie-prefix-tree/) | 🟡 Medium | C++ | 66 ms | [code](./0208-implement-trie-prefix-tree/solution.cpp) |
 | 139 | [Word Break](./0139-word-break/) | 🟡 Medium | C++ | 79 ms | [code](./0139-word-break/solution.cpp) |
 | 131 | [Palindrome Partitioning](./0131-palindrome-partitioning/) | 🟡 Medium | C++ | 163 ms | [code](./0131-palindrome-partitioning/solution.cpp) |
+| 4106 | [Find Mismatched Segments Between Two Strings](./4106-find-mismatched-segments-between-two-strings/) | 🟡 Medium | C++ | 2 ms | [code](./4106-find-mismatched-segments-between-two-strings/solution.cpp) |
