@@ -1,6 +1,6 @@
 # Bit Manipulation
 
-10 hand-picked problems · 0 easy · 8 medium · 2 hard
+12 hand-picked problems · 0 easy · 10 medium · 2 hard
 
 | # | Problem | Difficulty | Language | Runtime | Solution |
 |---|---|---|---|---|---|
@@ -14,3 +14,5 @@
 | 1457 | [Pseudo-Palindromic Paths in a Binary Tree](./1457-pseudo-palindromic-paths-in-a-binary-tree/) | 🟡 Medium | C++ | 895 ms | [code](./1457-pseudo-palindromic-paths-in-a-binary-tree/solution.cpp) |
 | 1239 | [Maximum Length of a Concatenated String with Unique Characters](./1239-maximum-length-of-a-concatenated-string-with-unique-characters/) | 🟡 Medium | C++ | 10 ms | [code](./1239-maximum-length-of-a-concatenated-string-with-unique-characters/solution.cpp) |
 | 1525 | [Number of Good Ways to Split a String](./1525-number-of-good-ways-to-split-a-string/) | 🟡 Medium | C++ | 42 ms | [code](./1525-number-of-good-ways-to-split-a-string/solution.cpp) |
+| 137 | [Single Number II](./0137-single-number-ii/) | 🟡 Medium | C++ | 1 ms | [code 1](./0137-single-number-ii/solution-1.cpp) · [code 2](./0137-single-number-ii/solution-2.cpp) |
+| 260 | [Single Number III](./0260-single-number-iii/) | 🟡 Medium | C++ | 0 ms | [code](./0260-single-number-iii/solution.cpp) |
