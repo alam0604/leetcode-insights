@@ -1,0 +1,40 @@
+name: Sync weekly LeetCode submissions
+
+on:
+  schedule:
+    - cron: "30 4 * * 3" # every Wednesday, 10:00 IST (04:30 UTC)
+  workflow_dispatch: # "Run workflow" button for manual syncs
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Add new accepted submissions to problems/
+        id: sync
+        env:
+          LEETCODE_USERNAME: ${{ secrets.LEETCODE_USERNAME }}
+          LEETCODE_SESSION: ${{ secrets.LEETCODE_SESSION }}
+          LEETCODE_CSRF: ${{ secrets.LEETCODE_CSRF }}
+        run: python scripts/sync_submissions.py
+
+      - name: Commit new solutions
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add problems README.md
+          if git diff --staged --quiet; then
+            echo "No new submissions this week."
+          else
+            git commit -m "Add ${{ steps.sync.outputs.added }} new LeetCode solution(s) from this week"
+            git pull --rebase
+            git push
+          fi
