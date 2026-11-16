@@ -2,7 +2,7 @@ name: Update LeetCode insights
 
 on:
   schedule:
-    - cron: "45 1 * * *" # every day, 07:15 IST
+    - cron: "30 0 * * *" # every day, 06:00 IST
   workflow_dispatch: # "Run workflow" button for manual updates
 
 permissions:
