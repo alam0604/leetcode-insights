@@ -2,7 +2,7 @@
 
 # ⚡ LeetCode Insights
 
-**933 problems solved · 268-day max streak · 1854 contest rating (top 6.38%)**
+**935 problems solved · 268-day max streak · 1854 contest rating (top 6.38%)**
 
 </div>
 
@@ -13,7 +13,7 @@
 <p align="center"><img src="./assets/heatmap.svg" alt="Submission calendar" width="100%"/></p>
 
 - **Longest streak:** 268 days in a row, from Feb 26, 2022 to Nov 20, 2022
-- **Active days:** 508 days with 2,352 submissions in total
+- **Active days:** 508 days with 2,355 submissions in total
 - **Busiest day:** Jan 16, 2022, with 33 submissions
 - **Most active weekday:** Sunday
 
@@ -26,13 +26,13 @@
 
 | Topic | Solved |
 |---|---|
-| Array | 509 |
+| Array | 510 |
 | String | 203 |
-| Hash Table | 177 |
-| Dynamic Programming | 171 |
+| Hash Table | 178 |
+| Dynamic Programming | 172 |
+| Math | 137 |
 | Greedy | 136 |
-| Math | 136 |
-| Sorting | 134 |
+| Sorting | 135 |
 | Depth-First Search | 121 |
 | Tree | 100 |
 | Breadth-First Search | 93 |
@@ -80,7 +80,7 @@
   <img src="./assets/yearly.svg" alt="Submissions per year" width="49%"/>
 </p>
 
-**Difficulty split:** 243 easy · 573 medium · 117 hard. Hard problems are 12.5% of all solved.
+**Difficulty split:** 243 easy · 575 medium · 117 hard. Hard problems are 12.5% of all solved.
 
 ## 📂 Hand-picked problems by topic
 
@@ -100,6 +100,6 @@ Each folder contains my **last accepted submission** with its runtime and memory
 | [Tree](./problems/09-tree/) | 100 | 10 | 0 / 8 / 2 |
 | [Greedy](./problems/10-greedy/) | 136 | 10 | 0 / 4 / 6 |
 | [String](./problems/11-string/) | 203 | 10 | 0 / 6 / 4 |
-| [Dynamic Programming](./problems/12-dynamic-programming/) | 171 | 10 | 0 / 2 / 8 |
+| [Dynamic Programming](./problems/12-dynamic-programming/) | 172 | 10 | 0 / 2 / 8 |
 
-<sub>Stats snapshot: Nov 15, 2026</sub>
+<sub>Stats snapshot: Nov 16, 2026</sub>
