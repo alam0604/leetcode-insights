@@ -2,7 +2,7 @@
 
 # ⚡ LeetCode Insights
 
-**937 problems solved · 268-day max streak · 1854 contest rating (top 6.38%)**
+**939 problems solved · 268-day max streak · 1854 contest rating (top 6.38%)**
 
 </div>
 
@@ -13,7 +13,7 @@
 <p align="center"><img src="./assets/heatmap.svg" alt="Submission calendar" width="100%"/></p>
 
 - **Longest streak:** 268 days in a row, from Feb 26, 2022 to Nov 20, 2022
-- **Active days:** 509 days with 2,362 submissions in total
+- **Active days:** 510 days with 2,371 submissions in total
 - **Busiest day:** Jan 16, 2022, with 33 submissions
 - **Most active weekday:** Sunday
 
@@ -33,14 +33,14 @@
 | Math | 137 |
 | Greedy | 136 |
 | Sorting | 135 |
-| Depth-First Search | 121 |
-| Tree | 100 |
+| Depth-First Search | 122 |
+| Tree | 101 |
 | Breadth-First Search | 93 |
-| Binary Tree | 91 |
+| Binary Tree | 92 |
 | Binary Search | 84 |
 | Two Pointers | 79 |
 | Matrix | 76 |
-| Bit Manipulation | 58 |
+| Bit Manipulation | 59 |
 | Stack | 50 |
 | Simulation | 43 |
 | Graph Theory | 41 |
@@ -80,7 +80,7 @@
   <img src="./assets/yearly.svg" alt="Submissions per year" width="49%"/>
 </p>
 
-**Difficulty split:** 243 easy · 577 medium · 117 hard. Hard problems are 12.5% of all solved.
+**Difficulty split:** 243 easy · 579 medium · 117 hard. Hard problems are 12.5% of all solved.
 
 ## 📂 Hand-picked problems by topic
 
@@ -93,13 +93,13 @@ Each folder contains my **last accepted submission** with its runtime and memory
 | [Backtracking](./problems/02-backtracking/) | 38 | 10 | 0 / 6 / 4 |
 | [Sliding Window](./problems/03-sliding-window/) | 41 | 10 | 0 / 6 / 4 |
 | [Graph](./problems/04-graph/) | 41 | 10 | 0 / 2 / 8 |
-| [Bit Manipulation](./problems/05-bit-manipulation/) | 58 | 13 | 0 / 11 / 2 |
+| [Bit Manipulation](./problems/05-bit-manipulation/) | 59 | 13 | 0 / 11 / 2 |
 | [Stack](./problems/06-stack/) | 50 | 10 | 0 / 5 / 5 |
 | [Two Pointers](./problems/07-two-pointers/) | 79 | 10 | 0 / 9 / 1 |
 | [Binary Search](./problems/08-binary-search/) | 84 | 12 | 0 / 8 / 4 |
-| [Tree](./problems/09-tree/) | 100 | 10 | 0 / 8 / 2 |
+| [Tree](./problems/09-tree/) | 101 | 10 | 0 / 8 / 2 |
 | [Greedy](./problems/10-greedy/) | 136 | 10 | 0 / 4 / 6 |
 | [String](./problems/11-string/) | 203 | 11 | 0 / 7 / 4 |
 | [Dynamic Programming](./problems/12-dynamic-programming/) | 172 | 13 | 0 / 5 / 8 |
 
-<sub>Stats snapshot: Nov 17, 2026</sub>
+<sub>Stats snapshot: Nov 18, 2026</sub>
