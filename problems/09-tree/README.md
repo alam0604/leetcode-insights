@@ -1,6 +1,6 @@
 # Tree
 
-10 hand-picked problems · 0 easy · 8 medium · 2 hard
+11 hand-picked problems · 0 easy · 9 medium · 2 hard
 
 | # | Problem | Difficulty | Language | Runtime | Solution |
 |---|---|---|---|---|---|
@@ -14,3 +14,4 @@
 | 235 | [Lowest Common Ancestor of a Binary Search Tree](./0235-lowest-common-ancestor-of-a-binary-search-tree/) | 🟡 Medium | C++ | 38 ms | [code](./0235-lowest-common-ancestor-of-a-binary-search-tree/solution.cpp) |
 | 103 | [Binary Tree Zigzag Level Order Traversal](./0103-binary-tree-zigzag-level-order-traversal/) | 🟡 Medium | C++ | 0 ms | [code](./0103-binary-tree-zigzag-level-order-traversal/solution.cpp) |
 | 106 | [Construct Binary Tree from Inorder and Postorder Traversal](./0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | 🟡 Medium | C++ | 91 ms | [code](./0106-construct-binary-tree-from-inorder-and-postorder-traversal/solution.cpp) |
+| 437 | [Path Sum III](./0437-path-sum-iii/) | 🟡 Medium | C++ | 23 ms | [code](./0437-path-sum-iii/solution.cpp) |

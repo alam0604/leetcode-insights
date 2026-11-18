@@ -1,6 +1,6 @@
 # Backtracking
 
-10 hand-picked problems · 0 easy · 6 medium · 4 hard
+11 hand-picked problems · 0 easy · 6 medium · 5 hard
 
 | # | Problem | Difficulty | Language | Runtime | Solution |
 |---|---|---|---|---|---|
@@ -14,3 +14,4 @@
 | 140 | [Word Break II](./0140-word-break-ii/) | 🔴 Hard | C++ | 7 ms | [code](./0140-word-break-ii/solution.cpp) |
 | 79 | [Word Search](./0079-word-search/) | 🟡 Medium | C++ | 169 ms | [code](./0079-word-search/solution.cpp) |
 | 17 | [Letter Combinations of a Phone Number](./0017-letter-combinations-of-a-phone-number/) | 🟡 Medium | C++ | 5 ms | [code](./0017-letter-combinations-of-a-phone-number/solution.cpp) |
+| 126 | [Word Ladder II](./0126-word-ladder-ii/) | 🔴 Hard | C++ | 11 ms | [code](./0126-word-ladder-ii/solution.cpp) |
