@@ -2,7 +2,7 @@
 
 # ⚡ LeetCode Insights
 
-**939 problems solved · 268-day max streak · 1854 contest rating (top 6.38%)**
+**942 problems solved · 268-day max streak · 1854 contest rating (top 6.38%)**
 
 </div>
 
@@ -13,7 +13,7 @@
 <p align="center"><img src="./assets/heatmap.svg" alt="Submission calendar" width="100%"/></p>
 
 - **Longest streak:** 268 days in a row, from Feb 26, 2022 to Nov 20, 2022
-- **Active days:** 510 days with 2,371 submissions in total
+- **Active days:** 511 days with 2,380 submissions in total
 - **Busiest day:** Jan 16, 2022, with 33 submissions
 - **Most active weekday:** Sunday
 
@@ -26,17 +26,17 @@
 
 | Topic | Solved |
 |---|---|
-| Array | 512 |
+| Array | 514 |
 | String | 203 |
 | Hash Table | 178 |
-| Dynamic Programming | 172 |
-| Math | 137 |
+| Dynamic Programming | 175 |
+| Math | 138 |
 | Greedy | 136 |
 | Sorting | 135 |
-| Depth-First Search | 122 |
-| Tree | 101 |
+| Depth-First Search | 123 |
+| Tree | 102 |
+| Binary Tree | 93 |
 | Breadth-First Search | 93 |
-| Binary Tree | 92 |
 | Binary Search | 84 |
 | Two Pointers | 79 |
 | Matrix | 76 |
@@ -45,7 +45,7 @@
 | Simulation | 43 |
 | Graph Theory | 41 |
 | Sliding Window | 41 |
-| Backtracking | 38 |
+| Backtracking | 39 |
 | Linked List | 36 |
 | Database | 31 |
 | Design | 29 |
@@ -80,7 +80,7 @@
   <img src="./assets/yearly.svg" alt="Submissions per year" width="49%"/>
 </p>
 
-**Difficulty split:** 243 easy · 579 medium · 117 hard. Hard problems are 12.5% of all solved.
+**Difficulty split:** 243 easy · 582 medium · 117 hard. Hard problems are 12.4% of all solved.
 
 ## 📂 Hand-picked problems by topic
 
@@ -90,16 +90,16 @@ Each folder contains my **last accepted submission** with its runtime and memory
 | Topic | Solved in topic | Picked | Easy / Med / Hard |
 |---|---|---|---|
 | [Linked List](./problems/01-linked-list/) | 36 | 10 | 0 / 8 / 2 |
-| [Backtracking](./problems/02-backtracking/) | 38 | 11 | 0 / 6 / 5 |
+| [Backtracking](./problems/02-backtracking/) | 39 | 11 | 0 / 6 / 5 |
 | [Sliding Window](./problems/03-sliding-window/) | 41 | 10 | 0 / 6 / 4 |
 | [Graph](./problems/04-graph/) | 41 | 10 | 0 / 2 / 8 |
 | [Bit Manipulation](./problems/05-bit-manipulation/) | 59 | 14 | 0 / 12 / 2 |
 | [Stack](./problems/06-stack/) | 50 | 10 | 0 / 5 / 5 |
 | [Two Pointers](./problems/07-two-pointers/) | 79 | 10 | 0 / 9 / 1 |
 | [Binary Search](./problems/08-binary-search/) | 84 | 12 | 0 / 8 / 4 |
-| [Tree](./problems/09-tree/) | 101 | 11 | 0 / 9 / 2 |
+| [Tree](./problems/09-tree/) | 102 | 11 | 0 / 9 / 2 |
 | [Greedy](./problems/10-greedy/) | 136 | 10 | 0 / 4 / 6 |
 | [String](./problems/11-string/) | 203 | 11 | 0 / 7 / 4 |
-| [Dynamic Programming](./problems/12-dynamic-programming/) | 172 | 13 | 0 / 5 / 8 |
+| [Dynamic Programming](./problems/12-dynamic-programming/) | 175 | 13 | 0 / 5 / 8 |
 
-<sub>Stats snapshot: Nov 18, 2026</sub>
+<sub>Stats snapshot: Nov 19, 2026</sub>
