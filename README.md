@@ -2,7 +2,7 @@
 
 # ⚡ LeetCode Insights
 
-**943 problems solved · 268-day max streak · 1854 contest rating (top 6.39%)**
+**945 problems solved · 268-day max streak · 1854 contest rating (top 6.39%)**
 
 </div>
 
@@ -13,7 +13,7 @@
 <p align="center"><img src="./assets/heatmap.svg" alt="Submission calendar" width="100%"/></p>
 
 - **Longest streak:** 268 days in a row, from Feb 26, 2022 to Nov 20, 2022
-- **Active days:** 512 days with 2,381 submissions in total
+- **Active days:** 513 days with 2,383 submissions in total
 - **Busiest day:** Jan 16, 2022, with 33 submissions
 - **Most active weekday:** Sunday
 
@@ -31,12 +31,12 @@
 | Hash Table | 179 |
 | Dynamic Programming | 175 |
 | Math | 138 |
+| Sorting | 136 |
 | Greedy | 136 |
-| Sorting | 135 |
-| Depth-First Search | 124 |
-| Tree | 103 |
-| Binary Tree | 94 |
-| Breadth-First Search | 93 |
+| Depth-First Search | 125 |
+| Tree | 105 |
+| Binary Tree | 96 |
+| Breadth-First Search | 94 |
 | Binary Search | 84 |
 | Two Pointers | 79 |
 | Matrix | 76 |
@@ -80,7 +80,7 @@
   <img src="./assets/yearly.svg" alt="Submissions per year" width="49%"/>
 </p>
 
-**Difficulty split:** 243 easy · 583 medium · 117 hard. Hard problems are 12.4% of all solved.
+**Difficulty split:** 243 easy · 585 medium · 117 hard. Hard problems are 12.4% of all solved.
 
 ## 📂 Hand-picked problems by topic
 
@@ -97,9 +97,9 @@ Each folder contains my **last accepted submission** with its runtime and memory
 | [Stack](./problems/06-stack/) | 50 | 10 | 0 / 5 / 5 |
 | [Two Pointers](./problems/07-two-pointers/) | 79 | 10 | 0 / 9 / 1 |
 | [Binary Search](./problems/08-binary-search/) | 84 | 12 | 0 / 8 / 4 |
-| [Tree](./problems/09-tree/) | 103 | 11 | 0 / 9 / 2 |
+| [Tree](./problems/09-tree/) | 105 | 11 | 0 / 9 / 2 |
 | [Greedy](./problems/10-greedy/) | 136 | 10 | 0 / 4 / 6 |
 | [String](./problems/11-string/) | 203 | 11 | 0 / 7 / 4 |
 | [Dynamic Programming](./problems/12-dynamic-programming/) | 175 | 13 | 0 / 5 / 8 |
 
-<sub>Stats snapshot: Nov 20, 2026</sub>
+<sub>Stats snapshot: Nov 21, 2026</sub>
