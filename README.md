@@ -13,7 +13,7 @@
 <p align="center"><img src="./assets/heatmap.svg" alt="Submission calendar" width="100%"/></p>
 
 - **Longest streak:** 268 days in a row, from Feb 26, 2022 to Nov 20, 2022
-- **Active days:** 515 days with 2,388 submissions in total
+- **Active days:** 516 days with 2,389 submissions in total
 - **Busiest day:** Jan 16, 2022, with 33 submissions
 - **Most active weekday:** Sunday
 
@@ -102,4 +102,4 @@ Each folder contains my **last accepted submission** with its runtime and memory
 | [String](./problems/11-string/) | 203 | 11 | 0 / 7 / 4 |
 | [Dynamic Programming](./problems/12-dynamic-programming/) | 175 | 13 | 0 / 5 / 8 |
 
-<sub>Stats snapshot: Nov 23, 2026</sub>
+<sub>Stats snapshot: Nov 24, 2026</sub>
