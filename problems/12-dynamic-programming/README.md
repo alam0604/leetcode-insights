@@ -1,6 +1,6 @@
 # Dynamic Programming
 
-13 hand-picked problems · 0 easy · 5 medium · 8 hard
+15 hand-picked problems · 0 easy · 7 medium · 8 hard
 
 | # | Problem | Difficulty | Language | Runtime | Solution |
 |---|---|---|---|---|---|
@@ -17,3 +17,5 @@
 | 3693 | [Climbing Stairs II](./3693-climbing-stairs-ii/) | 🟡 Medium | C++ | 13 ms | [code](./3693-climbing-stairs-ii/solution.cpp) |
 | 1524 | [Number of Sub-arrays With Odd Sum](./1524-number-of-sub-arrays-with-odd-sum/) | 🟡 Medium | Python3 | 119 ms | [code](./1524-number-of-sub-arrays-with-odd-sum/solution.py) |
 | 264 | [Ugly Number II](./0264-ugly-number-ii/) | 🟡 Medium | C++ | 86 ms | [code](./0264-ugly-number-ii/solution.cpp) |
+| 313 | [Super Ugly Number](./0313-super-ugly-number/) | 🟡 Medium | C++ | 771 ms | [code](./0313-super-ugly-number/solution.cpp) |
+| 650 | [2 Keys Keyboard](./0650-2-keys-keyboard/) | 🟡 Medium | C++ | 0 ms | [code](./0650-2-keys-keyboard/solution.cpp) |

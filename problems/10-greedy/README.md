@@ -1,6 +1,6 @@
 # Greedy
 
-10 hand-picked problems · 0 easy · 4 medium · 6 hard
+11 hand-picked problems · 0 easy · 5 medium · 6 hard
 
 | # | Problem | Difficulty | Language | Runtime | Solution |
 |---|---|---|---|---|---|
@@ -14,3 +14,4 @@
 | 767 | [Reorganize String](./0767-reorganize-string/) | 🟡 Medium | C++ | 3 ms | [code](./0767-reorganize-string/solution.cpp) |
 | 2366 | [Minimum Replacements to Sort the Array](./2366-minimum-replacements-to-sort-the-array/) | 🔴 Hard | C++ | 152 ms | [code](./2366-minimum-replacements-to-sort-the-array/solution.cpp) |
 | 714 | [Best Time to Buy and Sell Stock with Transaction Fee](./0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | 🟡 Medium | C++ | 130 ms | [code](./0714-best-time-to-buy-and-sell-stock-with-transaction-fee/solution.cpp) |
+| 3727 | [Maximum Alternating Sum of Squares](./3727-maximum-alternating-sum-of-squares/) | 🟡 Medium | C++ | 50 ms | [code](./3727-maximum-alternating-sum-of-squares/solution.cpp) |

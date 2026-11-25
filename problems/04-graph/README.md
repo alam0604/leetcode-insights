@@ -1,6 +1,6 @@
 # Graph
 
-10 hand-picked problems · 0 easy · 2 medium · 8 hard
+12 hand-picked problems · 0 easy · 3 medium · 9 hard
 
 | # | Problem | Difficulty | Language | Runtime | Solution |
 |---|---|---|---|---|---|
@@ -14,3 +14,5 @@
 | 547 | [Number of Provinces](./0547-number-of-provinces/) | 🟡 Medium | C++ | 28 ms | [code](./0547-number-of-provinces/solution.cpp) |
 | 2328 | [Number of Increasing Paths in a Grid](./2328-number-of-increasing-paths-in-a-grid/) | 🔴 Hard | C++ | 328 ms | [code](./2328-number-of-increasing-paths-in-a-grid/solution.cpp) |
 | 1697 | [Checking Existence of Edge Length Limited Paths](./1697-checking-existence-of-edge-length-limited-paths/) | 🔴 Hard | C++ | 674 ms | [code](./1697-checking-existence-of-edge-length-limited-paths/solution.cpp) |
+| 778 | [Swim in Rising Water](./0778-swim-in-rising-water/) | 🔴 Hard | C++ | 18 ms | [code](./0778-swim-in-rising-water/solution.cpp) |
+| 130 | [Surrounded Regions](./0130-surrounded-regions/) | 🟡 Medium | C++ | 4 ms | [code](./0130-surrounded-regions/solution.cpp) |

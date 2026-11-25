@@ -1,6 +1,6 @@
 # Binary Search
 
-12 hand-picked problems · 0 easy · 8 medium · 4 hard
+13 hand-picked problems · 0 easy · 9 medium · 4 hard
 
 | # | Problem | Difficulty | Language | Runtime | Solution |
 |---|---|---|---|---|---|
@@ -16,3 +16,4 @@
 | 540 | [Single Element in a Sorted Array](./0540-single-element-in-a-sorted-array/) | 🟡 Medium | C++ | 72 ms | [code](./0540-single-element-in-a-sorted-array/solution.cpp) |
 | 2300 | [Successful Pairs of Spells and Potions](./2300-successful-pairs-of-spells-and-potions/) | 🟡 Medium | C++ | 44 ms | [code](./2300-successful-pairs-of-spells-and-potions/solution.cpp) |
 | 275 | [H-Index II](./0275-h-index-ii/) | 🟡 Medium | C++ | 1 ms | [code](./0275-h-index-ii/solution.cpp) |
+| 475 | [Heaters](./0475-heaters/) | 🟡 Medium | C++ | 9 ms | [code](./0475-heaters/solution.cpp) |

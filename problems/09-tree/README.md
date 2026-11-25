@@ -1,6 +1,6 @@
 # Tree
 
-11 hand-picked problems · 0 easy · 9 medium · 2 hard
+15 hand-picked problems · 0 easy · 13 medium · 2 hard
 
 | # | Problem | Difficulty | Language | Runtime | Solution |
 |---|---|---|---|---|---|
@@ -15,3 +15,7 @@
 | 103 | [Binary Tree Zigzag Level Order Traversal](./0103-binary-tree-zigzag-level-order-traversal/) | 🟡 Medium | C++ | 0 ms | [code](./0103-binary-tree-zigzag-level-order-traversal/solution.cpp) |
 | 106 | [Construct Binary Tree from Inorder and Postorder Traversal](./0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | 🟡 Medium | C++ | 91 ms | [code](./0106-construct-binary-tree-from-inorder-and-postorder-traversal/solution.cpp) |
 | 437 | [Path Sum III](./0437-path-sum-iii/) | 🟡 Medium | C++ | 23 ms | [code](./0437-path-sum-iii/solution.cpp) |
+| 337 | [House Robber III](./0337-house-robber-iii/) | 🟡 Medium | C++ | 0 ms | [code](./0337-house-robber-iii/solution.cpp) |
+| 508 | [Most Frequent Subtree Sum](./0508-most-frequent-subtree-sum/) | 🟡 Medium | C++ | 8 ms | [code](./0508-most-frequent-subtree-sum/solution.cpp) |
+| 3997 | [Count Dominant Nodes in a Binary Tree](./3997-count-dominant-nodes-in-a-binary-tree/) | 🟡 Medium | C++ | 10 ms | [code](./3997-count-dominant-nodes-in-a-binary-tree/solution.cpp) |
+| 2583 | [Kth Largest Sum in a Binary Tree](./2583-kth-largest-sum-in-a-binary-tree/) | 🟡 Medium | C++ | 200 ms | [code](./2583-kth-largest-sum-in-a-binary-tree/solution.cpp) |
