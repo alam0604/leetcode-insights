@@ -2,7 +2,7 @@
 
 # ⚡ LeetCode Insights
 
-**947 problems solved · 268-day max streak · 1854 contest rating (top 6.39%)**
+**947 problems solved · 268-day max streak · 1854 contest rating (top 6.4%)**
 
 </div>
 
@@ -102,4 +102,4 @@ Each folder contains my **last accepted submission** with its runtime and memory
 | [String](./problems/11-string/) | 203 | 11 | 0 / 7 / 4 |
 | [Dynamic Programming](./problems/12-dynamic-programming/) | 175 | 15 | 0 / 7 / 8 |
 
-<sub>Stats snapshot: Nov 25, 2026</sub>
+<sub>Stats snapshot: Nov 26, 2026</sub>
